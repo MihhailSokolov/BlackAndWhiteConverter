@@ -1,0 +1,18 @@
+c:\users\mihhail\documents\visual studio 2013\Projects\Visual C#\BlackAndWhiteConverter\BlackAndWhiteConverter\bin\Debug\BlackAndWhiteConverter.exe.config
+c:\users\mihhail\documents\visual studio 2013\Projects\Visual C#\BlackAndWhiteConverter\BlackAndWhiteConverter\bin\Debug\BlackAndWhiteConverter.exe
+c:\users\mihhail\documents\visual studio 2013\Projects\Visual C#\BlackAndWhiteConverter\BlackAndWhiteConverter\bin\Debug\BlackAndWhiteConverter.pdb
+c:\users\mihhail\documents\visual studio 2013\Projects\Visual C#\BlackAndWhiteConverter\BlackAndWhiteConverter\obj\Debug\BlackAndWhiteConverter.Form1.resources
+c:\users\mihhail\documents\visual studio 2013\Projects\Visual C#\BlackAndWhiteConverter\BlackAndWhiteConverter\obj\Debug\BlackAndWhiteConverter.Properties.Resources.resources
+c:\users\mihhail\documents\visual studio 2013\Projects\Visual C#\BlackAndWhiteConverter\BlackAndWhiteConverter\obj\Debug\BlackAndWhiteConverter.csproj.GenerateResource.Cache
+c:\users\mihhail\documents\visual studio 2013\Projects\Visual C#\BlackAndWhiteConverter\BlackAndWhiteConverter\obj\Debug\BlackAndWhiteConverter.exe
+c:\users\mihhail\documents\visual studio 2013\Projects\Visual C#\BlackAndWhiteConverter\BlackAndWhiteConverter\obj\Debug\BlackAndWhiteConverter.pdb
+C:\Users\mihha\Box\Programming Projects\Visual C#\BlackAndWhiteConverter\BlackAndWhiteConverter\bin\Debug\BlackAndWhiteConverter.exe.config
+C:\Users\mihha\Box\Programming Projects\Visual C#\BlackAndWhiteConverter\BlackAndWhiteConverter\bin\Debug\BlackAndWhiteConverter.exe
+C:\Users\mihha\Box\Programming Projects\Visual C#\BlackAndWhiteConverter\BlackAndWhiteConverter\bin\Debug\BlackAndWhiteConverter.pdb
+C:\Users\mihha\Box\Programming Projects\Visual C#\BlackAndWhiteConverter\BlackAndWhiteConverter\obj\Debug\BlackAndWhiteConverter.csprojAssemblyReference.cache
+C:\Users\mihha\Box\Programming Projects\Visual C#\BlackAndWhiteConverter\BlackAndWhiteConverter\obj\Debug\BlackAndWhiteConverter.Form1.resources
+C:\Users\mihha\Box\Programming Projects\Visual C#\BlackAndWhiteConverter\BlackAndWhiteConverter\obj\Debug\BlackAndWhiteConverter.Properties.Resources.resources
+C:\Users\mihha\Box\Programming Projects\Visual C#\BlackAndWhiteConverter\BlackAndWhiteConverter\obj\Debug\BlackAndWhiteConverter.csproj.GenerateResource.cache
+C:\Users\mihha\Box\Programming Projects\Visual C#\BlackAndWhiteConverter\BlackAndWhiteConverter\obj\Debug\BlackAndWhiteConverter.csproj.CoreCompileInputs.cache
+C:\Users\mihha\Box\Programming Projects\Visual C#\BlackAndWhiteConverter\BlackAndWhiteConverter\obj\Debug\BlackAndWhiteConverter.exe
+C:\Users\mihha\Box\Programming Projects\Visual C#\BlackAndWhiteConverter\BlackAndWhiteConverter\obj\Debug\BlackAndWhiteConverter.pdb
